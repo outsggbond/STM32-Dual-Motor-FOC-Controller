@@ -1,0 +1,21 @@
+# STM32CubeIDE build products
+/STM32_2_motor/Debug/**/*.o
+/STM32_2_motor/Debug/**/*.d
+/STM32_2_motor/Debug/**/*.su
+/STM32_2_motor/Debug/**/*.cyclo
+/STM32_2_motor/Debug/STM32_2_motor.elf
+/STM32_2_motor/Debug/STM32_2_motor.bin
+/STM32_2_motor/Debug/STM32_2_motor.hex
+/STM32_2_motor/Debug/STM32_2_motor.list
+/STM32_2_motor/Debug/STM32_2_motor.map
+
+# Local build snapshots
+/STM32_2_motor/backup_pre_fix/*.elf
+/STM32_2_motor/backup_pre_fix/*.map
+
+# Generated hardware-test output (keep the PowerShell test tools)
+/STM32_2_motor/Debug/*.log
+/STM32_2_motor/Debug/*.csv
+/STM32_2_motor/Debug/final_*.txt
+/STM32_2_motor/Debug/full_run*.txt
+/STM32_2_motor/Debug/m1_traj*.txt
